@@ -1,0 +1,32 @@
+﻿1) Di fianco a ogni riga di codice, scrivere se si tratta di inizializzazione, 
+dichiarazione, assegnazione 
+a) string nome = “Mario”; INIZIALIZZAZIONE
+b) int i; DICHIARAZIONE
+c) isInt = true; ASSEGNAZIONE
+
+
+2) Quale tipo può essere nullo? 
+a) Valore 
+
+
+3) Dato il seguente metodo public int FaiQualcosa(string[] ilMioArray) 
+{ 
+ …………… 
+} 
+ Qual’è il modo corretto per chiamare il metodo? 
+c) int i = FaiQualcosa(arrayDiStringhe); 
+
+ 
+4) Quale dei seguenti codici è un esempio di ricorsione? 
+c) public int IlMioMetodo(int i) 
+{ 
+ //Condizione di stop 
+ Tot = tot * IlMioMetodo(i++); 
+} 
+
+
+5) Scrivere il valore delle seguenti variabili
+int i; 0
+Person p; null
+string s = String.Empty;  ""
+ double? d; null
